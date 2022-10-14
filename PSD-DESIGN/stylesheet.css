@@ -1,0 +1,125 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.loggo-sec{
+
+	background-color: #fff;
+	height: 110px;
+}
+.midle{
+
+	margin: 0px 100px;
+}
+.loggo{
+
+}
+.loggo img{
+
+	float: left;
+	margin-top: 8px;
+}
+.loggo nav{
+
+	float: left;
+	margin-top: 37px;
+	margin-left: 150px;
+}
+.loggo nav a{
+
+	margin-left: 70px;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #453592;
+}
+.loggo button{
+	
+	margin-left: 40px;
+	margin-top: 28px;
+	padding: 12px 23px;
+	background-color: #e26c00;
+	border: none;
+	color: #fff;
+	border-radius: 6px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+/*----------------------BANNER-SECTION----------------------*/
+.bannr-secn{
+	background: url(images/PSD-FILE_06.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 508px;
+
+}
+.banner{
+
+}
+.banner h1{
+
+	color: #fff;
+	display: inline-block;
+	margin-top: 235px;
+	margin-left: 160px;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	background-color: black;
+	padding: 10px 15px;
+	opacity: 0.5;
+}
+/*------------------------WELCOME-SECTION--------------------------*/
+.welcm-sec{
+	background-color: #fff;
+	height: 236px;
+
+}
+.welcme{
+
+}
+.welcme h1{
+
+	margin-left: 630px;
+	text-transform: uppercase;
+	font-size: 32px;
+	margin-top: 20px;
+	display: inline-block;
+	color: #4c3696;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+.welcme ul{
+
+	float: right;
+}
+.welcme ul li{
+
+	list-style: none;
+	display: inline-block;
+	margin-top: 22px;
+	margin-left: 5px;
+}
+.welcme ul li a{
+
+}
+.welcme ul li a img{
+
+}
+.welcme p{
+
+	text-align: center;
+	line-height: 38px;
+	font-size: 18px;
+	font-style: italic;
+	padding: 30px 163px;
+}
